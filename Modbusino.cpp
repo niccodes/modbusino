@@ -22,7 +22,7 @@
 #include <inttypes.h>
 
 #include "WProgram.h"
-#include "Modbusino.h"
+#include "Arduino.h"
 
 #define _MODBUS_RTU_SLAVE              0
 #define _MODBUS_RTU_FUNCTION           1
