@@ -23,7 +23,7 @@
 #define Modbusino_h
 
 #include <inttypes.h>
-#include "WProgram.h"
+#include "Arduino.h"
 
 #define MODBUS_BROADCAST_ADDRESS 0
 
